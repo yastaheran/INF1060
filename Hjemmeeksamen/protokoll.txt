@@ -1,0 +1,8 @@
+Jeg har bare brukt en byte for å formilde meldinger mellom klient og server. Dette fordi
+jeg syntes det ble for vansklig med flere bytes. Bytenes innhold har følgende betydning:
+	- G, hent en jobb
+	- T, klienten terminerer normalt
+	- E, klienten terminerer på grunn av error/feil
+Klienten sender én og én jobb-melding per jobb, så der bruker ber om X antall jobber eller
+alle jobber, er dette en tungvindt løsning og jeg hadde løst det på annet måte om jeg hadde 
+hatt mer tid.
