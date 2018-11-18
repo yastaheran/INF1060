@@ -12,7 +12,7 @@ Emnet gir en innføring i operativsystemer, sett både fra brukerens og programm
 - Kan du utvikle programmer med prosesser som kan kommunisere internt i maskinen og over et nettverk
 
 **Obliger**
-Oblig1-1 fra H2015
-Oblig1-2 fra H2017
-Oblig2-1 fra H2015
-Oblig2-2 fra H2017
+- Oblig1-1 fra H2015
+- Oblig2-1 fra H2015
+- Oblig2-2 fra H2017
+- Oblig1-2 fra H2017
